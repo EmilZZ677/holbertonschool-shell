@@ -1,2 +1,2 @@
 #!/bin/bash
-export /action PATH pwd
+export /action PATH | pwd
